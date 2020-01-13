@@ -1,4 +1,4 @@
-"""Check if a number is a palindrom"""
+"""Check if a number is a palindrome"""
 # As in https://leetcode.com/problems/palindrome-number/
 import math
 
