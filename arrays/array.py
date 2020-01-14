@@ -1,5 +1,5 @@
 """Implementation of Resizable Array"""
-import pdb
+
 
 class Array(object):
     """Resizable Array of Fixed Capacity"""
